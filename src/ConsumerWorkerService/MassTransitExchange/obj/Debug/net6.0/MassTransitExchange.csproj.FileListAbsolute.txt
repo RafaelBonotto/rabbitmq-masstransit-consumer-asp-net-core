@@ -1,0 +1,12 @@
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\rabbitmq-masstransit-consumer-asp-net-core\src\ConsumerWorkerService\MassTransitExchange\bin\Debug\net6.0\MassTransitExchange.deps.json
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\rabbitmq-masstransit-consumer-asp-net-core\src\ConsumerWorkerService\MassTransitExchange\bin\Debug\net6.0\MassTransitExchange.dll
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\rabbitmq-masstransit-consumer-asp-net-core\src\ConsumerWorkerService\MassTransitExchange\bin\Debug\net6.0\MassTransitExchange.pdb
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\rabbitmq-masstransit-consumer-asp-net-core\src\ConsumerWorkerService\MassTransitExchange\obj\Debug\net6.0\MassTransitExchange.csproj.AssemblyReference.cache
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\rabbitmq-masstransit-consumer-asp-net-core\src\ConsumerWorkerService\MassTransitExchange\obj\Debug\net6.0\MassTransitExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\rabbitmq-masstransit-consumer-asp-net-core\src\ConsumerWorkerService\MassTransitExchange\obj\Debug\net6.0\MassTransitExchange.AssemblyInfoInputs.cache
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\rabbitmq-masstransit-consumer-asp-net-core\src\ConsumerWorkerService\MassTransitExchange\obj\Debug\net6.0\MassTransitExchange.AssemblyInfo.cs
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\rabbitmq-masstransit-consumer-asp-net-core\src\ConsumerWorkerService\MassTransitExchange\obj\Debug\net6.0\MassTransitExchange.csproj.CoreCompileInputs.cache
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\rabbitmq-masstransit-consumer-asp-net-core\src\ConsumerWorkerService\MassTransitExchange\obj\Debug\net6.0\MassTransitExchange.dll
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\rabbitmq-masstransit-consumer-asp-net-core\src\ConsumerWorkerService\MassTransitExchange\obj\Debug\net6.0\refint\MassTransitExchange.dll
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\rabbitmq-masstransit-consumer-asp-net-core\src\ConsumerWorkerService\MassTransitExchange\obj\Debug\net6.0\MassTransitExchange.pdb
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\rabbitmq-masstransit-consumer-asp-net-core\src\ConsumerWorkerService\MassTransitExchange\obj\Debug\net6.0\ref\MassTransitExchange.dll
